@@ -8,5 +8,3 @@ Hi there! I'm a **Computer Engineering** student at the [Universitat Politècnic
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, Bash, Java, C++
-
-Thanks for stopping by!
