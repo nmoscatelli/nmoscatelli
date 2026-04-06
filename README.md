@@ -1,11 +1,29 @@
-# 👋 About Me
+# 👋 Hi, I'm Nicolás Moscatelli
 
-Hi there! I'm a **Computer Engineering** student at the [Universitat Politècnica de València (UPV)](https://www.upv.es/), with a strong focus on **Cybersecurity** - especially Blue Team operations. <br>
-Check out my [Personal Portfolio](https://nmoscatelli.github.io/)!
+**Computer Engineering Student @ UPV | SRE & DevOps Engineer**
 
-## 🔐 Cybersecurity Focus
-- 🧰 **ThreatKit** – My own toolkit designed to support Blue Team tasks (check the repo!).
-- 🎓 **BTJA (Blue Team Junior Analyst)** certified by [Security Blue Team](https://securityblue.team).
+I’m a Computer Engineering student at the **Universitat Politècnica de València (UPV)**. My background started in **Cybersecurity (Blue Team)**, but I’ve evolved into the world of **Cloud-Native Infrastructure and SRE**, focusing on building resilient, self-healing, and secure systems.
 
-## 🛠️ Tech Stack
-- **Languages**: Python, Bash, Java, C++
+---
+
+### 🔐 Cybersecurity & Blue Team
+* 📜 **BTJA (Blue Team Junior Analyst)** certified by Security Blue Team.
+* 🛠️ **[ThreatKit](https://github.com/nmoscatelli/ThreatKit):** My custom toolkit designed to streamline Blue Team operations and threat analysis.
+* Focus: Threat Hunting, Incident Response, and Security Automation.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, Bash, Java |
+| **DevOps & Cloud** | Kubernetes (k3d/K8s), Docker, GitOps (Argo CD), GitLab CI |
+| **Observability** | Prometheus, Grafana |
+| **Security** | Blue Team Ops, Threat Analysis, Vulnerability Scanning (Trivy) |
+
+---
+
+### 🤝 Connect with me
+* 💼 **LinkedIn:** [linkedin.com/in/nmoscatelli](https://www.linkedin.com/in/nicolas-moscatelli-czernuszka/)
+* 📍 **Location:** Valencia, Spain (UPV)
