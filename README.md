@@ -30,4 +30,4 @@ CLI tool designed for IoC management and threat analysis. It automates indicator
 
 ### 🤝 Connect with me
 * 💼 **LinkedIn:** [linkedin.com/in/nmoscatelli](https://www.linkedin.com/in/nicolas-moscatelli-czernuszka/)
-* 📍 **Location:** Valencia, Spain (UPV)
+* 📍 **Location:** Valencia, Spain
