@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nicolás Moscatelli
+# 👋 Hi, I'm Nicolas Moscz
 
-**Computer Engineering Student @ UPV | SRE & DevOps Engineer**
+**Computer Engineering Student @ UPV | SRE & DevOps Engineer @ DialApplet**
 
 I’m a Computer Engineering student at Universitat Politècnica de València (UPV). I started in Cybersecurity (Blue Team), but I’ve shifted my focus toward Cloud-Native Infrastructure and SRE. I enjoy building automated, resilient systems and bridge the gap between security and operations.
 
